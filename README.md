@@ -1,4 +1,4 @@
 MaSON
 =========
 
-JSON of George Mason University Fairfax campus
+GeoJSON of George Mason University Fairfax campus
