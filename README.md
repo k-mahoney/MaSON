@@ -9,7 +9,7 @@ So, here's an up to date GeoJSON of campus buildings, extracted from OSM, cleane
 
 ##### To do:
 
-- Can add roads and walk ways, as well as any additional features.
+- Can add roads and walkways, as well as any additional features.
 
 - Keep up to date with current campus construction.
 
